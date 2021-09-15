@@ -1,6 +1,6 @@
 ### Hi, I'm Diego! 👋
 I'm from Spain 🇪🇸, and I'm currently studying a Higher Technical Certificate of Web App Development 💻. 
-  
+![banner_github](https://github.com/diegxalv/diegxalv/blob/main/banner_github.png)
 
 
 <!--
