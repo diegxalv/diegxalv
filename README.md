@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Diego! 👋
+I'm from Spain 🇪🇸, and I'm currently studying a Higher Technical Certificate of Web App Development 💻. 
+  
+
 
 <!--
 **diegxalv/diegxalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
