@@ -1,5 +1,5 @@
 ### Hi, I'm Diego! 👋
-![banner_github](https://github.com/diegxalv/diegxalv/blob/main/banner_github.png)
+![banner_github](https://github.com/diegxalv/diegxalv/blob/main/banner_github_2.png)
 
 I'm from Spain 🇪🇸, and I'm currently studying a Higher Technical Certificate of Web App Development 💻. 
 
