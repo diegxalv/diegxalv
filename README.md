@@ -2,30 +2,47 @@
 ![banner_github](./images/header.png)
 
 ### 🚀 About Me:
+
+<img align="right" height="270px" alt="GIF" src="./images/coding.gif" />
+
 - 🌱 I'm developer | Programmer | Learner.
 - 💻 Currently learning Java and Web App Development. 
 
-### 📫 How to reach me:
 
-<a href="https://linkedin.com/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+### 📫 Connect with me:
+
+<a href="https://www.linkedin.com/in/juan-diego-mesa-%C3%A1lvarez-a42a791b0/" target="_blank"><img align="left" alt="Diegxalv | LinkedIn" width="22px" src="./images/linkedin.png" />
+<a href="https://instagram.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Instagram" width="22px" src="./images/insta.png" />
+<a href="https://twitter.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Twitter" width="22px" src="./images/twitter.png" />
 
 <br />
+<br />
 
-### Languages and tools:
+### 👨‍💻 Languages, tools and knowledges:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="./images/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="MySQL" width="26px" src="./images/mysql.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="./images/github.png" />
+<a href="https://www.microsoft.com/es-es" target="_blank"><img align="left" alt="Windows" width="26px" src="./images/windows11.png" /></a>
+<a href="https://ubuntu.com" target="_blank"><img align="left" alt="ubuntu" width="26px" src="./images/ubuntu.png" /></a>
 <br />
 <br />
 
 ### 📈 Stats:
-[![Diegxalv's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegxalv)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+<p align="center">
+<a href="https://github.com/diegxalv">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegxalv&theme=gotham&show_icons=true" />
+</a>
+<a href="https://github.com/diegxalv">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegxalv&theme=gotham" />
+</a>
+</p>
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diegxalv.diegxalv)
+
 <!--
 ### Softwares:
 
