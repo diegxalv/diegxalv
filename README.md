@@ -1,5 +1,20 @@
-## Hi, I'm Diego! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+## Hi, I'm Diego! 
 ![banner_github](./images/header.png)
+
+<p>
+  <h1 align="center"><b>Hello there, I'm Diego <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> !</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b>"Enjoy doing what you like."</b></h4>
+</p>
+
+<p align="center">
+    <img align="center" alt="profile count" src="https://komarev.com/ghpvc/?username=diegxalv&color=blue" />&nbsp; 
+    <img align="center" alt="profile count" src="https://img.shields.io/github/followers/diegxalv?label=follow&style=social" />
+
+  
+</p>
 
 ### 🚀 About Me:
 
@@ -7,15 +22,15 @@
 
 - 🌱 I'm developer | Programmer | Learner.
 - 💻 Currently learning Java and Web App Development. 
+- 🙌 I love connecting with different people.
 
 
 ### 📫 Connect with me:
-
+<div>
 <a href="https://www.linkedin.com/in/juan-diego-mesa-%C3%A1lvarez-a42a791b0/" target="_blank"><img align="left" alt="Diegxalv | LinkedIn" width="22px" src="./images/linkedin.png" />
 <a href="https://instagram.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Instagram" width="22px" src="./images/insta.png" />
 <a href="https://twitter.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Twitter" width="22px" src="./images/twitter.png" />
-
-<br />
+</div>
 <br />
 
 ### 👨‍💻 Languages, tools and knowledges:
@@ -40,8 +55,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegxalv&theme=gotham" />
 </a>
 </p>
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diegxalv.diegxalv)
 
 <!--
 ### Softwares:
@@ -57,8 +70,6 @@
 <br />
 
 ---
-
-
 
 ### Escuchando ahora 🎧
 
