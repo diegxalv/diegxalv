@@ -1,4 +1,3 @@
-## Hi, I'm Diego! 
 ![banner_github](./images/header.png)
 
 <p>
