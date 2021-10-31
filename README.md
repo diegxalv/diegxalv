@@ -1,5 +1,5 @@
 ## Hi, I'm Diego! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-![banner_github](https://github.com/diegxalv/diegxalv/blob/main/header.png)
+![banner_github](./images/header.png)
 
 ### 🚀 About Me:
 - 🌱 I'm developer | Programmer | Learner.
