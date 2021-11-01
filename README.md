@@ -19,7 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="./images/coding.gif" />
 
-- 🌱 I'm developer | Programmer | Learner.
+- 🌱 I'm Sysadmin | Developer | Programmer | Learner.
 - 💻 Currently learning Java and Web App Development. 
 - 🙌 I love connecting with different people.
 
@@ -41,6 +41,10 @@
 <img align="left" alt="GitHub" width="26px" src="./images/github.png" />
 <a href="https://www.microsoft.com/es-es" target="_blank"><img align="left" alt="Windows" width="26px" src="./images/windows11.png" /></a>
 <a href="https://ubuntu.com" target="_blank"><img align="left" alt="ubuntu" width="26px" src="./images/ubuntu.png" /></a>
+<a href="https://www.opensuse.org/" target="_blank"><img align="left" alt="openSUSE" width="32px" src="./images/opensuse.png" /></a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="left" alt="MySQL Workbench" width="26px" src="./images/mysqlworkbench.png" /></a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="26px" src="./images/microsoft_sql_server.png" /></a>
+
 <br />
 <br />
 
