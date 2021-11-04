@@ -51,10 +51,10 @@
   
 <p align="center">
 <a href="https://github.com/diegxalv">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegxalv&theme=gotham&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegxalv&hide_title=true&hide_border=true&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/diegxalv">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegxalv&theme=gotham" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegxalv&hide_title=true&hide_border=true&theme=gotham" />
 </a>
 </p>
 
