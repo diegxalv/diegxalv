@@ -36,14 +36,18 @@
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="./images/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/css.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="MySQL" width="26px" src="./images/mysql.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="./images/github.png" />
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="26px" src="./images/mysql.png" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="26px" src="./images/github.png" /></a>
 <a href="https://www.microsoft.com/es-es" target="_blank"><img align="left" alt="Windows" width="26px" src="./images/windows11.png" /></a>
 <a href="https://ubuntu.com" target="_blank"><img align="left" alt="ubuntu" width="26px" src="./images/ubuntu.png" /></a>
 <a href="https://www.opensuse.org/" target="_blank"><img align="left" alt="openSUSE" width="32px" src="./images/opensuse.png" /></a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="26px" src="./images/microsoft_sql_server.png" /></a>
+<a href="https://www.microsoft.com/es-es/sql-server" target="_blank"><img align="left" alt="Microsoft SQL Server" width="26px" src="./images/microsoft_sql_server.png" /></a>
 
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="28px" src="./images/vscode.png" /></a>
+<a href="https://netbeans.apache.org/" target="_blank"><img align="left" alt="NetBeans" width="22px" src="./images/netbeans.png" /></a>
+<a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ" width="26px" src="./images/intellij.png" /></a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="left" alt="MySQL WorkBench" width="26px" src="./images/mysqlworkbench.png" /></a>
 <br />
 <br />
 
