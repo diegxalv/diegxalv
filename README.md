@@ -43,7 +43,7 @@
 <a href="https://ubuntu.com" target="_blank"><img align="left" alt="ubuntu" width="26px" src="./images/ubuntu.png" /></a>
 <a href="https://www.opensuse.org/" target="_blank"><img align="left" alt="openSUSE" width="32px" src="./images/opensuse.png" /></a>
 <a href="https://www.microsoft.com/es-es/sql-server" target="_blank"><img align="left" alt="Microsoft SQL Server" width="26px" src="./images/microsoft_sql_server.png" /></a>
-
+<br /><br />
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="28px" src="./images/vscode.png" /></a>
 <a href="https://netbeans.apache.org/" target="_blank"><img align="left" alt="NetBeans" width="22px" src="./images/netbeans.png" /></a>
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img align="left" alt="IntelliJ" width="26px" src="./images/intellij.png" /></a>
