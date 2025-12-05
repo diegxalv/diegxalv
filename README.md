@@ -20,7 +20,7 @@
 <img align="right" height="270px" alt="GIF" src="./images/coding.gif" />
 
 - 🌱 I'm Sysadmin | Developer | Programmer | Learner.
-- 💻 Currently learning Java and Web App Development. 
+- 💻 Currently learning about cybersecurity.
 - 🙌 I love connecting with different people.
 
 
