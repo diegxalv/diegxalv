@@ -26,7 +26,7 @@
 
 ### 📫 Connect with me:
 <div>
-<a href="https://www.linkedin.com/in/juan-diego-mesa-%C3%A1lvarez-a42a791b0/" target="_blank"><img align="left" alt="Diegxalv | LinkedIn" width="28px" src="./images/linkedin2.png" />
+<a href="https://www.linkedin.com/in/mesajdiego/" target="_blank"><img align="left" alt="Diegxalv | LinkedIn" width="28px" src="./images/linkedin2.png" />
 <a href="https://instagram.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Instagram" width="28px" src="./images/instagram.png" />
 <a href="https://twitter.com/diegxalv" target="_blank"><img align="left" alt="Diegxalv | Twitter" width="28px" src="./images/twitter2.png" />
 </div>
